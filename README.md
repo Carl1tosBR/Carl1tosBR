@@ -2,10 +2,10 @@
 
 **`Futuro desenvolvedor FullStack`**
 
-🎓 Estudante de Engenharia de Software (2º período)  
-🚀 Participante do programa G9 ONE da Alura  
-💻 Skills: HTML, CSS, JavaScript, Python, No/Low Code  
-🌟 Sempre explorando novas tecnologias e desafios
+🎓 Estudante de Engenharia de Software | 2º período
+🚀 Integrante do programa G9 ONE – Alura
+💻 Habilidades: HTML, CSS, JavaScript, Python e No/Low Code
+🌟 Apaixonado por aprender, explorar tecnologias e encarar novos desafios
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl1tosbr&theme=shadow_red&show_icons=true)
