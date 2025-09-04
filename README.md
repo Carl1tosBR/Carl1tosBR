@@ -1,4 +1,14 @@
-## Fala ae? Carl1n por aqui !
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&color=ff0000&duration=2000&lines=Aopa!+👋;+Carl1n+aqui+🔥;"/>
+
+**`Futuro desenvolvedor FullStack`**
+
+👋 fala ae ! Carl1n aqui !
+🎓 Estudante de Engenharia de Software (2º período)  
+🚀 Participante do programa G9 ONE da Alura  
+💻 Skills: HTML, CSS, JavaScript, Python, No/Low Code  
+🌟 Sempre explorando novas tecnologias e desafios
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl1tosbr&theme=shadow_red&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl1tosbr&theme=shadow_red&show&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,3 +30,9 @@
   <a href="https://www.linkedin.com/in" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carl1tosBR/Carl1tosBR/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carl1tosBR/Carl1tosBR/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carl1tosBR/Carl1tosBR/output/github-contribution-grid-snake.svg">
+</picture>
