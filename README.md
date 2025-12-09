@@ -5,6 +5,7 @@
 🎓 Estudante de Engenharia de Software | 2º período  
 💻 Habilidades: HTML, CSS, JavaScript, Python e No/Low Code  
 🌟 Apaixonado por aprender, explorar tecnologias e encarar novos desafios  
+💬 Minhas redes: https://guns.lol/carl1nzx
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
