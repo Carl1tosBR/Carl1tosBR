@@ -2,7 +2,7 @@
 
 **`Futuro desenvolvedor FullStack`**
 
-🎓 Estudante de Engenharia de Software | 2º período  
+🎓 Estudante de Engenharia de Software | 3º período  
 💻 Habilidades: HTML, CSS, JavaScript, Python e No/Low Code  
 🌟 Apaixonado por aprender, explorar tecnologias e encarar novos desafios  
 💬 Minhas redes: https://guns.lol/carl1nzx
